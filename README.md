@@ -177,6 +177,7 @@ duplicate([1,2,3,4,5]); // [1,2,3,4,5,1,2,3,4,5]
   * ETag
   * X-Frame-Options
 * What are HTTP actions? List all HTTP actions that you know, and explain them.
+* What techniques do you use to increase availiability of your website?
 
 #### Coding Questions:
 
